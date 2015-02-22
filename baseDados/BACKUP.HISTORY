@@ -1,0 +1,24 @@
+Sat Jun 19 08:28:09 BRT 2010:Backup started for database located at C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados to C:\dbbackups\baseDados.
+Sat Jun 19 08:28:16 BRT 2010:Backup of data segment to C:\dbbackups\baseDados\seg0 completed. 
+Sat Jun 19 08:28:17 BRT 2010:copied log directory from C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados\log to C:\dbbackups\baseDados\log
+Sat Jun 19 08:28:17 BRT 2010:Backup completed, log instant at (1,658173) 
+
+Sat Jun 19 08:39:52 BRT 2010:Backup started for database located at C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados to C:\cronosBackup\baseDados.
+Sat Jun 19 08:40:02 BRT 2010:Backup of data segment to C:\cronosBackup\baseDados\seg0 completed. 
+Sat Jun 19 08:40:02 BRT 2010:copied log directory from C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados\log to C:\cronosBackup\baseDados\log
+Sat Jun 19 08:40:02 BRT 2010:Backup completed, log instant at (1,663360) 
+
+Sat Jun 19 08:43:41 BRT 2010:Backup started for database located at C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados to C:\cronosBackup\baseDados.
+Sat Jun 19 08:43:41 BRT 2010:moved old backup copy from C:\cronosBackup\baseDados to C:\cronosBackup\baseDados.OLD
+Sat Jun 19 08:43:50 BRT 2010:Backup of data segment to C:\cronosBackup\baseDados\seg0 completed. 
+Sat Jun 19 08:43:50 BRT 2010:copied log directory from C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados\log to C:\cronosBackup\baseDados\log
+Sat Jun 19 08:43:50 BRT 2010:removed old backup copy at C:\cronosBackup\baseDados.OLD
+Sat Jun 19 08:43:50 BRT 2010:Backup completed, log instant at (1,669088) 
+
+Sat Jun 19 09:16:57 BRT 2010:Backup started for database located at C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados to C:\cronosBackup\baseDados.
+Sat Jun 19 09:16:57 BRT 2010:moved old backup copy from C:\cronosBackup\baseDados to C:\cronosBackup\baseDados.OLD
+Sat Jun 19 09:17:10 BRT 2010:Backup of data segment to C:\cronosBackup\baseDados\seg0 completed. 
+Sat Jun 19 09:17:10 BRT 2010:copied log directory from C:\Documents and Settings\Programador\Meus documentos\NetBeansProjects\Cronos\baseDados\log to C:\cronosBackup\baseDados\log
+Sat Jun 19 09:17:11 BRT 2010:removed old backup copy at C:\cronosBackup\baseDados.OLD
+Sat Jun 19 09:17:11 BRT 2010:Backup completed, log instant at (2,16013) 
+
