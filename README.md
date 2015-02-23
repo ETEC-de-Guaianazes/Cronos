@@ -4,10 +4,7 @@ Sistema de controle de fluxo de caixa e estoque escrito em Java e utilizando o J
 Desenvolvido em 2009-2010 como trabalho de conclusão do curso técnico de informática na Escola Técnica Estadual de Guaianazes.
 
 ## Autores
-Andre Saraiva
-Hugo Boleta
-Leandro Cavalcante
-Lucas Renan
+Andre Saraiva, Hugo Boleta, Leandro Cavalcante e Lucas Renan
 
 ## IDE
 
