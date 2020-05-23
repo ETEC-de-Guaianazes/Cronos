@@ -29,3 +29,6 @@ Andre Saraiva, Hugo Boleta, Leandro Cavalcante e Lucas Renan
 
 ## Licença
 [The MIT License (MIT)](https://opensource.org/licenses/MIT) - Copyright (c) 2009 Andre Saraiva, Hugo Boleta, Leandro Cavalcante, Lucas Renan.
+
+## Quer enviar seu TCC ou projeto?
+Dê uma olhada no [fórum](https://github.com/ETEC-de-Guaianazes/) e siga as instruções descritas no README.md.
